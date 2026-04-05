@@ -1,2 +1,2 @@
-while !dead:
+while not dead:
     eat()
